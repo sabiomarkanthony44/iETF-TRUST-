@@ -1,2 +1,0 @@
-# iETF-TRUST-
-IETF TRUST
